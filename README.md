@@ -1,2 +1,2 @@
 # mcp_demo_main
-New project
+New project for testing
